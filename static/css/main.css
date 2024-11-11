@@ -1,0 +1,8 @@
+img{
+    width: 500px;
+    height: 550px;
+    margin-left: 20px;
+}
+img:hover{
+    opacity: 0.8;
+}
